@@ -7,7 +7,7 @@ import (
 	"github.com/open-falcon/mail-provider/config"
 	//"github.com/toolkits/smtp"
 	"github.com/toolkits/web/param"
-        //"net"
+        "net"
         "net/mail"
         "net/smtp"
         "crypto/tls"
